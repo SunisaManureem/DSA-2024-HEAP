@@ -296,3 +296,18 @@ if __name__ == "__main__":
 code python
 ```
 [Capture รูปส่งตรงนี้]
+
+![image](https://github.com/user-attachments/assets/c9bb064f-8e4a-4276-8451-b2cf52dc0c4b)
+
+![image](https://github.com/user-attachments/assets/1f5f2afc-2c0d-45e7-a538-5d946cc0a4d2)
+
+![image](https://github.com/user-attachments/assets/3d6546b9-1adf-4fbf-9da7-cf2e9ce9335a)
+
+![image](https://github.com/user-attachments/assets/c6b2202c-28dc-4b79-8d4e-def09ea3a554)
+
+![image](https://github.com/user-attachments/assets/a9a08b95-0a04-4f20-8964-35e81a2cd95d)
+
+
+
+
+
