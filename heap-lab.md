@@ -83,6 +83,9 @@ code python
 ```
 [Capture รูปส่งตรงนี้]
 
+![image](https://github.com/user-attachments/assets/6b7b7f89-aadb-49ca-8088-8d121d9211f3)
+
+
 ### แบบฝึกหัดที่ 2: การลบค่า
 จากข้อ 1 จงเขียนลำดับการลบค่าสูงสุดออกจาก Heap จำนวน 3 ครั้ง แสดงข้อมูล Heap หลังจากลบแต่ละครั้ง
 
@@ -91,6 +94,9 @@ code python
 ```
 [Capture รูปส่งตรงนี้]
 
+![image](https://github.com/user-attachments/assets/21250ec6-3000-49d2-baf4-5d40af7a99e6)
+
+
 ### แบบฝึกหัดที่ 3: การเขียนโปรแกรม
 จงเขียนฟังก์ชัน `is_max_heap(arr)` ที่รับ array เข้ามาและตรวจสอบว่าป็น Max Heap หรือไม่ 
 
@@ -98,6 +104,9 @@ code python
 code python
 ```
 [Capture รูปส่งตรงนี้]
+
+![Uploading image.png…]()
+
 
 
 ## การประยุกต์ใช้งานจริง
