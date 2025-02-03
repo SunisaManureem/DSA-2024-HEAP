@@ -105,7 +105,8 @@ code python
 ```
 [Capture รูปส่งตรงนี้]
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/7a274e48-d1ce-45bc-95d2-89c3e6832381)
+
 
 
 
